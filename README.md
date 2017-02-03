@@ -8,6 +8,8 @@ NetVis FX is a tool that allows you to visualize network traffic, so that you ca
 
 Galaxy is a visualization that consists of the sun, and planets positioned around a circle. Planets represent packet features that include: source IP, destination IP, source port, destination port, and protocol. They can be selected from the Controls menu. The sun is the origin point, where packets, represented as cubes, start their journey to a target planet, which is selected based on the feature of a packet, e.g. a packet using the DNS protocol is headed towards the planet labeled as DNS.
 
+![Galaxy Visualization](https://raw.githubusercontent.com/michaelpiskozub/NetVis-FX/master/images/NetVisFXGalaxy.jpg)
+
 Packets travel with speeds based on their length. The larger the packet the slower it moves towards the planet. Length is also encoded in colors of packets. Three ranges are deﬁned: 0-500 (green), 500-1000 (yellow) and 1000-1500 (cyan).
 In IP mode, the range of the ﬁrst byte of the address is divided between planets. In Port mode the whole range (0-65535) is divided between planets.
 
