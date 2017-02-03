@@ -35,7 +35,7 @@ A polygonal chain, formed by packets, is indicative of a flood attack, such as D
 
 ## Controls
 
-Move Camera: `right click & drag up/down` - up/down, `W` - forward, `S` - backward, `A` - left, `D` - right, `left click & drag` - look around, `R` - reset camera
+Move Camera: `right click & drag up/down` - up/down, `W` - forward, `S` - backward, `A` - left, `D` - right, `left click & drag` - look around, `R` - reset camera, `Shift` - increase speed
 
 ## Dependencies
 
