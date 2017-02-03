@@ -1,6 +1,6 @@
-# `NetVis-Plus`
+# `NetVis-FX`
 
-NetVis Plus is a tool that allows you to visualize network traffic, so that you can see anomalies and other suspicious traffic flows clearer. It was written as a part of MSc Thesis at the University of Oxford. The project is a fork of [NetVis](https://github.com/ryft/NetVis).
+NetVis FX is a tool that allows you to visualize network traffic, so that you can see anomalies and other suspicious traffic flows clearer. It was written as a part of MSc Thesis at the University of Oxford. The project is a fork of [NetVis](https://github.com/ryft/NetVis).
 
 ## Visualizations
 
@@ -11,7 +11,7 @@ Galaxy is a visualization that consists of the sun, and planets positioned aroun
 Packets travel with speeds based on their length. The larger the packet the slower it moves towards the planet. Length is also encoded in colors of packets. Three ranges are deﬁned: 0-500 (green), 500-1000 (yellow) and 1000-1500 (cyan).
 In IP mode, the range of the ﬁrst byte of the address is divided between planets. In Port mode the whole range (0-65535) is divided between planets.
 
-Galaxy is three-dimensional. The sun is closer to the camera than the planets, but equal distances between them are maintained to not mislead users. The position of the camera can be changed using a combination of keyboard and mouse shortcuts (see [Controls](https://github.com/michaelpiskozub/NetVis-Plus#Controls)).
+Galaxy is three-dimensional. The sun is closer to the camera than the planets, but equal distances between them are maintained to not mislead users. The position of the camera can be changed using a combination of keyboard and mouse shortcuts (see [Controls](https://github.com/michaelpiskozub/NetVis-FX#Controls)).
 
 ### Parallel Galaxy
 
