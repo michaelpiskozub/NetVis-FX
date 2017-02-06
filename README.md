@@ -1,6 +1,6 @@
 # NetVis-FX
 
-NetVis FX is a tool that allows you to visualize network traffic, so that you can see anomalies and other suspicious traffic flows clearer. It was written as a part of MSc Thesis at the University of Oxford. The project is a fork of [NetVis](https://github.com/ryft/NetVis).
+NetVis FX is a tool that allows you to visualize network traffic, so that you can see anomalies and other suspicious traffic flows clearer. It was written as a part of MSc Thesis in 2015 at the University of Oxford. The project is a fork of [NetVis](https://github.com/ryft/NetVis).
 
 ## Visualizations
 
