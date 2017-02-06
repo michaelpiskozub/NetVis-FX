@@ -21,19 +21,31 @@ Galaxy is three-dimensional. The sun is closer to the camera than the planets, b
 
 Parallel Galaxy is a visualization that implements parallel coordinates using the logic from the Galaxy visualization. The sun is now positioned on the very left side. Five columns of planets are located next to each other. Every column consists of 10 planets. Packets are released from the sun and ﬂy to a planet from every column representing its respective parameters.
 
+![Parallel Galaxy](https://raw.githubusercontent.com/michaelpiskozub/NetVis-FX/master/images/NetVisFXParallelGalaxy.jpg)
+
 All other features are analogous to the Galaxy visualization, apart from labels, which can be toggled in the Controls menu. When they are shown, the visualization feels too cluttered and packets are not as easily recognizable. Hence the labels should be used for reminding a user what given planets represent.
 
 ## Features
 
 ### Easily Distinguish Packets
 
+![Galaxy BBC Video](https://raw.githubusercontent.com/michaelpiskozub/NetVis-FX/master/images/NetVisFXGalaxyBBCVideo.jpg)
+
 Galaxy shows us different types of packages based on their size. If we visit a website containing a video, we can state with high probability that clusters of long packets carry video data and smaller ones represent queries, e.g. connection initialization.
 
 ### Explore Port Scan Granularity
 
+![Galaxy Port Scan](https://raw.githubusercontent.com/michaelpiskozub/NetVis-FX/master/images/NetVisFXGalaxyPortScan.jpg)
+
 A starfish-shaped pattern is identified with a port scan and it shows which port ranges are queried most frequently.
 
+![Parallel Galaxy Port Scan](https://raw.githubusercontent.com/michaelpiskozub/NetVis-FX/master/images/NetVisFXParallelGalaxyPortScan.jpg)
+
+Same situation presented as a parallel galaxy.
+
 ### Detect Flood Attacks
+
+![Parallel Galaxy JRE Overflow](https://raw.githubusercontent.com/michaelpiskozub/NetVis-FX/master/images/NetVisFXParallelGalaxyJREOverflow.jpg)
 
 A polygonal chain, formed by packets, is indicative of a flood attack, such as DDoS. Its thickness or degree of being connected is attributed to the amount of packets forming it.
 
