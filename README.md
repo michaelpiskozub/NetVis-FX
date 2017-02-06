@@ -13,7 +13,7 @@ Galaxy is a visualization that consists of the sun, and planets positioned aroun
 Packets travel with speeds based on their length. The larger the packet the slower it moves towards the planet. Length is also encoded in colors of packets. Three ranges are deﬁned: 0-500 (green), 500-1000 (yellow) and 1000-1500 (cyan).
 In IP mode, the range of the ﬁrst byte of the address is divided between planets. In Port mode the whole range (0-65535) is divided between planets.
 
-<center><img src="https://raw.githubusercontent.com/michaelpiskozub/NetVis-FX/master/images/NetVisFXGalaxy3DView.jpg" alt="Galaxy Zoomed View" width="400"/></center>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/michaelpiskozub/NetVis-FX/master/images/NetVisFXGalaxy3DView.jpg" alt="Galaxy Zoomed View" width="400"/></div>
 
 Galaxy is three-dimensional. The sun is closer to the camera than the planets, but equal distances between them are maintained to not mislead users. The position of the camera can be changed using a combination of keyboard and mouse shortcuts (see [Controls](https://github.com/michaelpiskozub/NetVis-FX#controls)).
 
