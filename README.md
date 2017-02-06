@@ -41,7 +41,7 @@ A starfish-shaped pattern is identified with a port scan and it shows which port
 
 ![Parallel Galaxy Port Scan](https://raw.githubusercontent.com/michaelpiskozub/NetVis-FX/master/images/NetVisFXParallelGalaxyPortScan.jpg)
 
-Same situation presented as a parallel galaxy.
+Same type of attack presented as a parallel galaxy.
 
 ### Detect Flood Attacks
 
