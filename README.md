@@ -47,7 +47,7 @@ Same type of attack presented as a parallel galaxy.
 
 ![Parallel Galaxy JRE Overflow](https://raw.githubusercontent.com/michaelpiskozub/NetVis-FX/master/images/NetVisFXParallelGalaxyJREOverflow.jpg)
 
-A polygonal chain, formed by packets, is indicative of a flood attack, such as DDoS. Its thickness or degree of being connected is attributed to the amount of packets forming it.
+A polygonal chain, formed by packets, indicates a flood attack, such as DDoS. Its thickness or degree of being connected is attributed to the amount of packets forming it.
 
 ## Controls
 
